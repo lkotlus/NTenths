@@ -1,6 +1,9 @@
 'use strict'
 
-// Basic plotly
+// TODO:
+// 1. Fetch data from google sheets API
+
+// Sample data
 const xArray = [1,2,3,4,5,6,7,8,9,10];
 const lkyArray = [10,3,10,4,5,6,7,7,6,9];
 const sryArray = [10,5,6,7,8,9,11,7,9,2]
